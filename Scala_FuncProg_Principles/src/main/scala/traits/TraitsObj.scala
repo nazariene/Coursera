@@ -1,0 +1,5 @@
+package traits
+
+object TraitsObj {
+
+}
